@@ -21,7 +21,7 @@ It was the perfect hands-on way to strengthen my understanding of basic data str
 - Managing user interaction through **loops** and **conditionals**
 
 ## Why This Project?
-As someone who believes learning becomes stronger through doing, I wanted to build something small but meaningful. This project helped me bring together multiple Python concepts into one place and see how they interact with each other. It's a reminder that even simple projects can teach important lessons and give a lot of satisfaction.
+As someone who believes learning becomes stronger through doing, I wanted to build something small but meaningful. This project helped me bring together multiple Python concepts into one place and see how they interact with each other. 
 
 ## How to Run
 1. Make sure you have Python installed.
